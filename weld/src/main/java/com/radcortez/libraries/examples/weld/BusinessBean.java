@@ -1,7 +1,7 @@
 package com.radcortez.libraries.examples.weld;
 
-import javax.enterprise.context.ApplicationScoped;
-import javax.inject.Inject;
+import jakarta.enterprise.context.ApplicationScoped;
+import jakarta.inject.Inject;
 
 @ApplicationScoped
 public class BusinessBean {

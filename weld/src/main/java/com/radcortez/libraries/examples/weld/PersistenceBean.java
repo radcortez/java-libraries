@@ -1,6 +1,6 @@
 package com.radcortez.libraries.examples.weld;
 
-import javax.enterprise.context.ApplicationScoped;
+import jakarta.enterprise.context.ApplicationScoped;
 
 @ApplicationScoped
 public class PersistenceBean {

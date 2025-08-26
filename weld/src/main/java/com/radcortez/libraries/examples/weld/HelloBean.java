@@ -2,8 +2,8 @@ package com.radcortez.libraries.examples.weld;
 
 import org.jboss.weld.environment.se.events.ContainerInitialized;
 
-import javax.enterprise.event.Observes;
-import javax.inject.Singleton;
+import jakarta.enterprise.event.Observes;
+import jakarta.inject.Singleton;
 
 @Singleton
 public class HelloBean {

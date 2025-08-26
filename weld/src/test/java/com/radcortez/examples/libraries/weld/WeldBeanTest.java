@@ -5,7 +5,7 @@ import org.jboss.weld.junit5.auto.WeldJunit5AutoExtension;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 @ExtendWith(WeldJunit5AutoExtension.class)
 public class WeldBeanTest {

@@ -4,7 +4,7 @@ import com.radcortez.libraries.examples.weld.BusinessBean;
 import org.jboss.weld.environment.se.StartMain;
 import org.junit.jupiter.api.Test;
 
-import javax.enterprise.inject.spi.CDI;
+import jakarta.enterprise.inject.spi.CDI;
 
 public class WeldApplicationTest {
     @Test
